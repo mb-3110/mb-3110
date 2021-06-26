@@ -1,0 +1,12 @@
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+.title{
+  font-family: 'Montserrat', sans-serif;
+}
+.subtitle{
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
